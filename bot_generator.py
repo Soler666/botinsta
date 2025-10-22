@@ -12,9 +12,7 @@ import string
 import re
 import os
 import logging
-import json
-
-import tkinter as tk
+import jsonimport tkinter as tk
 from tkinter import ttk
 from ttkthemes import ThemedTk
 from PIL import Image, ImageTk
@@ -38,7 +36,7 @@ class InstagramBot:
     def create_account(self, contact_info, full_name, username, password, tm=None):
         """Crea una nueva cuenta de Instagram usando Selenium con email o teléfono."""
         try:
-            logging.info("Navegando a la página de registro de Instagram...")
+            logging.info("Navegano a la página de registro de Instagram...")
             self.driver.get("https://www.instagram.com/accounts/signup/phone/")
             human_like_delay(2, 4)
 
