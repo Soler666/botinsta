@@ -1,0 +1,16 @@
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Perfil del navegador (contiene información sensible y es muy grande)
+edge_profile/
+chrome_profile/
+
+# Archivos de registro
+logs/
+
+# Archivos de cuentas (¡NUNCA subir credenciales a un repositorio público!)
+accounts.json
+
+# Controladores de WebDriver
+*.exe
