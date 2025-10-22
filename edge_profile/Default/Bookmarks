@@ -1,0 +1,83 @@
+{
+   "checksum": "a0335d6563aaf7c43905cf85c7305e85",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13405625460835201",
+            "date_last_used": "0",
+            "guid": "4a7d6960-3b9d-42d3-afa6-ca053bd5508e",
+            "id": "8",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/",
+            "visit_count": 0
+         }, {
+            "date_added": "13405625460834980",
+            "date_last_used": "0",
+            "guid": "c6dc3c9d-0598-48dd-a813-967de092beda",
+            "id": "7",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/",
+            "visit_count": 0
+         }, {
+            "date_added": "13405625460834574",
+            "date_last_used": "0",
+            "guid": "deae5367-6011-4124-9659-05f323aaecaa",
+            "id": "6",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=247829",
+            "visit_count": 0
+         }, {
+            "date_added": "13391034126963814",
+            "date_last_used": "0",
+            "guid": "f4745603-fd68-4fb2-8158-a015dccf64a1",
+            "id": "9",
+            "name": "Full Games and Software",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "http://www.aiosetup.com/",
+            "visit_count": 0
+         } ],
+         "date_added": "13405625460483833",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13405625460483833",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13405625460483833",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

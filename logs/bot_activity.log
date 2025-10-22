@@ -1,0 +1,3387 @@
+2025-10-22 11:50:59,503 - INFO - Iniciando proceso de bots...
+2025-10-22 11:51:01,164 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 11:51:01,166 - INFO - --- Ejecutando Bot #1 para _soler.666 en Instagram (Seguidores) ---
+2025-10-22 11:51:23,292 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 11:51:23,296 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 3 segundos...
+2025-10-22 11:51:42,170 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 11:51:42,173 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 6 segundos...
+2025-10-22 11:52:03,837 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 11:52:03,839 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 12 segundos...
+2025-10-22 11:52:16,298 - ERROR - La función follow_user falló después de 3 intentos.
+2025-10-22 11:52:16,303 - ERROR - Ocurrió un error durante la ejecución del bot #1: No active exception to reraise
+2025-10-22 11:52:23,951 - INFO - --- Ejecutando Bot #2 para _soler.666 en Instagram (Seguidores) ---
+2025-10-22 11:52:45,615 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 11:52:45,616 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 3 segundos...
+2025-10-22 11:53:04,584 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 11:53:04,584 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 6 segundos...
+2025-10-22 11:53:25,930 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 11:53:25,931 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 12 segundos...
+2025-10-22 11:53:38,602 - ERROR - La función follow_user falló después de 3 intentos.
+2025-10-22 11:53:38,603 - ERROR - Ocurrió un error durante la ejecución del bot #2: No active exception to reraise
+2025-10-22 11:53:44,662 - INFO - --- Ejecutando Bot #3 para _soler.666 en Instagram (Seguidores) ---
+2025-10-22 11:54:04,065 - WARNING - Intento fallido para follow_user. (Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6af0cd0]
+	(No symbol) [0x0x7ff6d6b0fbba]
+	(No symbol) [0x0x7ff6d6b77734]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 3 segundos...
+2025-10-22 11:54:07,414 - WARNING - Intento fallido para follow_user. (Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	(No symbol) [0x0x7ff6d6b01149]
+	(No symbol) [0x0x7ff6d6b444a3]
+	(No symbol) [0x0x7ff6d6b71f52]
+	(No symbol) [0x0x7ff6d6b1a525]
+	(No symbol) [0x0x7ff6d6b6e9a1]
+	(No symbol) [0x0x7ff6d6b6e139]
+	(No symbol) [0x0x7ff6d6ad63b5]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	(No symbol) [0x0x7ff6d6ad4ef3]
+	GetHandleVerifier [0x0x7ff6d6efe5e8+1542664]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 6 segundos...
+2025-10-22 11:54:13,776 - WARNING - Intento fallido para follow_user. (Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	(No symbol) [0x0x7ff6d6b01149]
+	(No symbol) [0x0x7ff6d6b444a3]
+	(No symbol) [0x0x7ff6d6b71f52]
+	(No symbol) [0x0x7ff6d6b1a525]
+	(No symbol) [0x0x7ff6d6b6e9a1]
+	(No symbol) [0x0x7ff6d6b6e139]
+	(No symbol) [0x0x7ff6d6ad63b5]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	(No symbol) [0x0x7ff6d6ad4ef3]
+	GetHandleVerifier [0x0x7ff6d6efe5e8+1542664]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 12 segundos...
+2025-10-22 11:56:40,973 - INFO - Iniciando proceso de bots...
+2025-10-22 11:56:42,449 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 11:56:42,450 - INFO - --- Ejecutando Bot #1 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 11:57:04,768 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 11:57:04,769 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 3 segundos...
+2025-10-22 11:57:23,609 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 11:57:23,610 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 6 segundos...
+2025-10-22 11:57:45,574 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 11:57:45,575 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 12 segundos...
+2025-10-22 11:57:58,149 - ERROR - La función follow_user falló después de 3 intentos.
+2025-10-22 11:57:58,150 - ERROR - Ocurrió un error durante la ejecución del bot #1: No active exception to reraise
+2025-10-22 11:58:05,250 - INFO - --- Ejecutando Bot #2 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 11:58:26,928 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 11:58:26,929 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 3 segundos...
+2025-10-22 11:58:45,255 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 11:58:45,256 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 6 segundos...
+2025-10-22 11:59:07,269 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 11:59:07,269 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 12 segundos...
+2025-10-22 11:59:19,667 - ERROR - La función follow_user falló después de 3 intentos.
+2025-10-22 11:59:19,667 - ERROR - Ocurrió un error durante la ejecución del bot #2: No active exception to reraise
+2025-10-22 11:59:26,715 - INFO - --- Ejecutando Bot #3 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 11:59:46,749 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 11:59:46,750 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 3 segundos...
+2025-10-22 12:01:34,762 - INFO - Iniciando proceso de bots...
+2025-10-22 12:01:36,221 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 12:01:36,222 - INFO - --- Ejecutando Bot #1 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:01:43,925 - INFO - No se encontró el pop-up de 'Notificaciones'.
+2025-10-22 12:02:00,786 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:02:00,787 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 3 segundos...
+2025-10-22 12:02:19,488 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:02:19,490 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 6 segundos...
+2025-10-22 12:02:41,051 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:02:41,052 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 12 segundos...
+2025-10-22 12:02:53,125 - ERROR - La función follow_user falló después de 3 intentos.
+2025-10-22 12:02:53,127 - ERROR - Ocurrió un error durante la ejecución del bot #1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:02:58,516 - INFO - --- Ejecutando Bot #2 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:03:05,411 - INFO - No se encontró el pop-up de 'Notificaciones'.
+2025-10-22 12:03:22,371 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:03:22,372 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 3 segundos...
+2025-10-22 12:03:40,689 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:03:40,690 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 6 segundos...
+2025-10-22 12:04:02,429 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:04:02,430 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 12 segundos...
+2025-10-22 12:04:14,707 - ERROR - La función follow_user falló después de 3 intentos.
+2025-10-22 12:04:14,708 - ERROR - Ocurrió un error durante la ejecución del bot #2: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:04:22,574 - INFO - --- Ejecutando Bot #3 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:04:30,890 - INFO - No se encontró el pop-up de 'Notificaciones'.
+2025-10-22 12:05:07,181 - INFO - Iniciando proceso de bots...
+2025-10-22 12:05:08,729 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 12:05:08,729 - INFO - --- Ejecutando Bot #1 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:05:17,084 - INFO - No se encontró el pop-up de 'Notificaciones'.
+2025-10-22 12:05:33,272 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:05:33,273 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 3 segundos...
+2025-10-22 12:05:52,289 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:05:52,290 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 6 segundos...
+2025-10-22 12:06:14,480 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:06:14,481 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 12 segundos...
+2025-10-22 12:06:27,147 - ERROR - La función follow_user falló después de 3 intentos.
+2025-10-22 12:06:27,148 - ERROR - Ocurrió un error durante la ejecución del bot #1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:06:35,454 - INFO - --- Ejecutando Bot #2 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:06:43,014 - INFO - No se encontró el pop-up de 'Notificaciones'.
+2025-10-22 12:06:59,748 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:06:59,750 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 3 segundos...
+2025-10-22 12:07:18,269 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:07:18,270 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 6 segundos...
+2025-10-22 12:07:39,953 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:07:39,954 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 12 segundos...
+2025-10-22 12:07:52,312 - ERROR - La función follow_user falló después de 3 intentos.
+2025-10-22 12:07:52,313 - ERROR - Ocurrió un error durante la ejecución del bot #2: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:07:59,362 - INFO - --- Ejecutando Bot #3 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:08:07,165 - INFO - No se encontró el pop-up de 'Notificaciones'.
+2025-10-22 12:08:23,754 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:08:23,755 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 3 segundos...
+2025-10-22 12:08:42,731 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:08:42,732 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 6 segundos...
+2025-10-22 12:09:04,890 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:09:04,892 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 12 segundos...
+2025-10-22 12:09:17,405 - ERROR - La función follow_user falló después de 3 intentos.
+2025-10-22 12:09:17,406 - ERROR - Ocurrió un error durante la ejecución del bot #3: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:09:23,343 - INFO - --- Ejecutando Bot #4 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:09:30,522 - INFO - No se encontró el pop-up de 'Notificaciones'.
+2025-10-22 12:09:47,518 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:09:47,519 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 3 segundos...
+2025-10-22 12:10:06,226 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:10:06,226 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 6 segundos...
+2025-10-22 12:10:27,356 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:10:27,357 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 12 segundos...
+2025-10-22 12:10:39,921 - ERROR - La función follow_user falló después de 3 intentos.
+2025-10-22 12:10:39,923 - ERROR - Ocurrió un error durante la ejecución del bot #4: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:10:47,829 - INFO - --- Ejecutando Bot #5 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:10:55,168 - INFO - No se encontró el pop-up de 'Notificaciones'.
+2025-10-22 12:11:12,022 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:11:12,023 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 3 segundos...
+2025-10-22 12:11:16,974 - WARNING - Intento fallido para follow_user. ('NoneType' object has no attribute 'is_displayed'). Reintentando en 6 segundos...
+2025-10-22 12:11:23,947 - WARNING - Intento fallido para follow_user. (Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6ae0e5f]
+	(No symbol) [0x0x7ff6d6b774ec]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 12 segundos...
+2025-10-22 12:11:36,160 - ERROR - La función follow_user falló después de 3 intentos.
+2025-10-22 12:11:36,161 - ERROR - Ocurrió un error durante la ejecución del bot #5: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6ae0e5f]
+	(No symbol) [0x0x7ff6d6b774ec]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:11:44,500 - INFO - --- Ejecutando Bot #6 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:11:44,504 - ERROR - Ocurrió un error durante la ejecución del bot #6: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6ae0e5f]
+	(No symbol) [0x0x7ff6d6b774ec]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:11:51,203 - INFO - --- Ejecutando Bot #7 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:11:51,207 - ERROR - Ocurrió un error durante la ejecución del bot #7: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6ae0e5f]
+	(No symbol) [0x0x7ff6d6b774ec]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:11:56,455 - INFO - --- Ejecutando Bot #8 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:11:56,459 - ERROR - Ocurrió un error durante la ejecución del bot #8: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6ae0e5f]
+	(No symbol) [0x0x7ff6d6b774ec]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:12:04,054 - INFO - --- Ejecutando Bot #9 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:12:04,057 - ERROR - Ocurrió un error durante la ejecución del bot #9: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6ae0e5f]
+	(No symbol) [0x0x7ff6d6b774ec]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:12:12,630 - INFO - --- Ejecutando Bot #10 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:12:12,633 - ERROR - Ocurrió un error durante la ejecución del bot #10: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6ae0e5f]
+	(No symbol) [0x0x7ff6d6b774ec]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:12:21,365 - INFO - --- Ejecutando Bot #11 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:12:21,368 - ERROR - Ocurrió un error durante la ejecución del bot #11: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6ae0e5f]
+	(No symbol) [0x0x7ff6d6b774ec]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:12:29,302 - INFO - --- Ejecutando Bot #12 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:12:29,305 - ERROR - Ocurrió un error durante la ejecución del bot #12: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6ae0e5f]
+	(No symbol) [0x0x7ff6d6b774ec]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:12:36,418 - INFO - --- Ejecutando Bot #13 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:12:36,420 - ERROR - Ocurrió un error durante la ejecución del bot #13: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6ae0e5f]
+	(No symbol) [0x0x7ff6d6b774ec]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:12:43,114 - INFO - --- Ejecutando Bot #14 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:12:43,118 - ERROR - Ocurrió un error durante la ejecución del bot #14: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6ae0e5f]
+	(No symbol) [0x0x7ff6d6b774ec]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:12:49,447 - INFO - --- Ejecutando Bot #15 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:12:49,449 - ERROR - Ocurrió un error durante la ejecución del bot #15: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6ae0e5f]
+	(No symbol) [0x0x7ff6d6b774ec]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:12:57,462 - INFO - --- Ejecutando Bot #16 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:12:57,488 - ERROR - Ocurrió un error durante la ejecución del bot #16: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6ae0e5f]
+	(No symbol) [0x0x7ff6d6b774ec]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:13:06,116 - INFO - --- Ejecutando Bot #17 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:13:06,119 - ERROR - Ocurrió un error durante la ejecución del bot #17: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6ae0e5f]
+	(No symbol) [0x0x7ff6d6b774ec]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:14:56,138 - INFO - Iniciando proceso de bots...
+2025-10-22 12:14:57,643 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 12:14:57,644 - INFO - --- Ejecutando Bot #1 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:15:08,199 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 12:15:08,221 - INFO - Verificación de login en Instagram: Sesión activa.
+2025-10-22 12:15:16,752 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 12:15:33,793 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:15:33,794 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 3 segundos...
+2025-10-22 12:15:52,388 - WARNING - Error al intentar seguir en Instagram. Posiblemente ya se sigue al usuario o el botón no se encontró. Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:15:52,389 - WARNING - Intento fallido para follow_user. (Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6b5045b]
+	(No symbol) [0x0x7ff6d6b5071b]
+	(No symbol) [0x0x7ff6d6b91927]
+	(No symbol) [0x0x7ff6d6b7216f]
+	(No symbol) [0x0x7ff6d6b4667b]
+	(No symbol) [0x0x7ff6d6b8f3d2]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 6 segundos...
+2025-10-22 12:15:58,412 - WARNING - Intento fallido para follow_user. (Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6af0cd0]
+	(No symbol) [0x0x7ff6d6b0fbba]
+	(No symbol) [0x0x7ff6d6b77734]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+). Reintentando en 12 segundos...
+2025-10-22 12:16:10,453 - ERROR - La función follow_user falló después de 3 intentos.
+2025-10-22 12:16:10,454 - ERROR - Ocurrió un error durante la ejecución del bot #1: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6af0cd0]
+	(No symbol) [0x0x7ff6d6b0fbba]
+	(No symbol) [0x0x7ff6d6b77734]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:16:19,281 - INFO - --- Ejecutando Bot #2 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:16:19,283 - ERROR - Ocurrió un error durante la ejecución del bot #2: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	(No symbol) [0x0x7ff6d6b01149]
+	(No symbol) [0x0x7ff6d6b444a3]
+	(No symbol) [0x0x7ff6d6b71f52]
+	(No symbol) [0x0x7ff6d6b1a525]
+	(No symbol) [0x0x7ff6d6b6e9a1]
+	(No symbol) [0x0x7ff6d6b6e139]
+	(No symbol) [0x0x7ff6d6ad63b5]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	(No symbol) [0x0x7ff6d6ad4ef3]
+	GetHandleVerifier [0x0x7ff6d6efe5e8+1542664]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:16:28,480 - INFO - --- Ejecutando Bot #3 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:16:28,483 - ERROR - Ocurrió un error durante la ejecución del bot #3: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	(No symbol) [0x0x7ff6d6b01149]
+	(No symbol) [0x0x7ff6d6b444a3]
+	(No symbol) [0x0x7ff6d6b71f52]
+	(No symbol) [0x0x7ff6d6b1a525]
+	(No symbol) [0x0x7ff6d6b6e9a1]
+	(No symbol) [0x0x7ff6d6b6e139]
+	(No symbol) [0x0x7ff6d6ad63b5]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	(No symbol) [0x0x7ff6d6ad4ef3]
+	GetHandleVerifier [0x0x7ff6d6efe5e8+1542664]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:16:37,847 - INFO - --- Ejecutando Bot #4 para lee_mi_bio_snk en Instagram (Seguidores) ---
+2025-10-22 12:16:37,851 - ERROR - Ocurrió un error durante la ejecución del bot #4: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	(No symbol) [0x0x7ff6d6b01149]
+	(No symbol) [0x0x7ff6d6b444a3]
+	(No symbol) [0x0x7ff6d6b71f52]
+	(No symbol) [0x0x7ff6d6b1a525]
+	(No symbol) [0x0x7ff6d6b6e9a1]
+	(No symbol) [0x0x7ff6d6b6e139]
+	(No symbol) [0x0x7ff6d6ad63b5]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	(No symbol) [0x0x7ff6d6ad4ef3]
+	GetHandleVerifier [0x0x7ff6d6efe5e8+1542664]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:23:47,163 - INFO - Iniciando proceso de bots...
+2025-10-22 12:23:47,165 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 12:23:48,671 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 12:23:57,875 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 12:24:01,960 - ERROR - La misión del bot #1 falló con un error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6af0cd0]
+	(No symbol) [0x0x7ff6d6b0fbba]
+	(No symbol) [0x0x7ff6d6b77734]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:24:03,997 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 12:24:13,724 - INFO - --- INICIANDO MISIÓN PARA BOT #2 ---
+2025-10-22 12:24:14,949 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 12:24:19,472 - ERROR - La misión del bot #2 falló con un error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6af0cd0]
+	(No symbol) [0x0x7ff6d6b0fbba]
+	(No symbol) [0x0x7ff6d6b77734]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:24:21,498 - INFO - --- MISIÓN PARA BOT #2 FINALIZADA ---
+2025-10-22 12:26:32,137 - INFO - Iniciando proceso de bots...
+2025-10-22 12:26:32,139 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 12:26:33,362 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 12:26:41,847 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 12:26:44,435 - ERROR - La misión del bot #1 falló con un error: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	(No symbol) [0x0x7ff6d6b01149]
+	(No symbol) [0x0x7ff6d6af1f12]
+	(No symbol) [0x0x7ff6d6af0e8d]
+	(No symbol) [0x0x7ff6d6b0fbba]
+	(No symbol) [0x0x7ff6d6b77734]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:26:46,546 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 12:29:35,603 - INFO - Iniciando proceso de bots...
+2025-10-22 12:29:52,649 - INFO - Iniciando proceso de bots...
+2025-10-22 12:29:52,650 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 12:29:54,015 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 12:30:02,117 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 12:30:03,642 - ERROR - La misión del bot #1 falló con un error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=141.0.3537.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6d6d92685+51877]
+	GetHandleVerifier [0x0x7ff6d6d926e4+51972]
+	GetHandleVerifier [0x0x7ff6d6f48c75+1847445]
+	(No symbol) [0x0x7ff6d6af0cd0]
+	(No symbol) [0x0x7ff6d6b0fbba]
+	(No symbol) [0x0x7ff6d6b77734]
+	(No symbol) [0x0x7ff6d6b8ed0a]
+	(No symbol) [0x0x7ff6d6b71df3]
+	(No symbol) [0x0x7ff6d6b45b36]
+	(No symbol) [0x0x7ff6d6b44d80]
+	(No symbol) [0x0x7ff6d6b45973]
+	(No symbol) [0x0x7ff6d6c0e4a5]
+	(No symbol) [0x0x7ff6d6c0a75d]
+	GetHandleVerifier [0x0x7ff6d6dbcec3+226019]
+	GetHandleVerifier [0x0x7ff6d6dac091+156849]
+	GetHandleVerifier [0x0x7ff6d6db4589+190889]
+	GetHandleVerifier [0x0x7ff6d6d997c4+80868]
+	GetHandleVerifier [0x0x7ff6d6d99913+81203]
+	GetHandleVerifier [0x0x7ff6d6d87e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 12:30:05,707 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 12:53:19,313 - INFO - Iniciando proceso de bots...
+2025-10-22 12:53:19,316 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 12:53:20,806 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 12:53:35,945 - ERROR - Verificación de login en Instagram: Sesión NO activa.
+2025-10-22 12:53:35,945 - INFO - Intentando login automático para bot #1...
+2025-10-22 12:53:44,023 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 14:10:41,475 - INFO - Iniciando proceso de bots...
+2025-10-22 14:10:41,481 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 14:10:42,572 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 14:10:44,382 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 14:10:59,543 - ERROR - Verificación de login en Instagram: Sesión NO activa.
+2025-10-22 14:10:59,546 - INFO - Intentando login automático para bot #1...
+2025-10-22 14:11:08,001 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 14:11:30,760 - ERROR - Error durante el login en Instagram: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b440e5f]
+	(No symbol) [0x0x7ff75b4d74ec]
+	(No symbol) [0x0x7ff75b4eed0a]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 14:11:30,761 - ERROR - La misión del bot #1 falló con un error: ¡ERROR CRÍTICO! No se pudo iniciar sesión automáticamente en Instagram.
+2025-10-22 14:11:32,844 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 14:11:42,544 - INFO - --- INICIANDO MISIÓN PARA BOT #2 ---
+2025-10-22 14:11:43,203 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 14:11:44,600 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 14:12:03,767 - ERROR - Verificación de login en Instagram: Sesión NO activa.
+2025-10-22 14:12:03,769 - INFO - Intentando login automático para bot #2...
+2025-10-22 14:12:12,687 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 14:12:24,627 - INFO - Verificación de login en Instagram: Sesión activa.
+2025-10-22 14:12:24,628 - INFO - Login exitoso en Instagram para usuario: lee_mi_bio_snk
+2025-10-22 14:12:32,709 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 14:12:33,805 - INFO - Intentando seguir al usuario con inyección de JavaScript...
+2025-10-22 14:12:33,820 - WARNING - No se encontró el botón 'Seguir' mediante JavaScript. Es posible que ya sigas a este usuario.
+2025-10-22 14:12:36,329 - INFO - --- MISIÓN PARA BOT #2 FINALIZADA ---
+2025-10-22 14:12:43,930 - INFO - --- INICIANDO MISIÓN PARA BOT #3 ---
+2025-10-22 14:12:44,514 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 14:12:45,924 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 14:13:03,484 - ERROR - La misión del bot #3 falló con un error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b450cd0]
+	(No symbol) [0x0x7ff75b46fbba]
+	(No symbol) [0x0x7ff75b4d7734]
+	(No symbol) [0x0x7ff75b4eed0a]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 14:19:50,031 - INFO - Iniciando proceso de bots...
+2025-10-22 14:19:50,033 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 14:19:50,671 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 14:19:52,390 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 14:19:52,391 - INFO - Generando cuenta para bot #1: mariaortiz60
+2025-10-22 14:20:05,509 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 14:20:20,768 - ERROR - Error creando cuenta en Instagram: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b4b045b]
+	(No symbol) [0x0x7ff75b4b071b]
+	(No symbol) [0x0x7ff75b4f1927]
+	(No symbol) [0x0x7ff75b4d216f]
+	(No symbol) [0x0x7ff75b4a667b]
+	(No symbol) [0x0x7ff75b4ef3d2]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 14:20:20,769 - ERROR - La misión del bot #1 falló con un error: No se pudo crear la cuenta para el bot #1.
+2025-10-22 14:20:23,460 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 14:20:33,388 - INFO - --- INICIANDO MISIÓN PARA BOT #2 ---
+2025-10-22 14:20:34,078 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 14:20:36,198 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 14:20:40,279 - INFO - Generando cuenta para bot #2: marialopez82
+2025-10-22 14:20:48,892 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 14:21:08,181 - INFO - Cuenta creada exitosamente: marialopez82
+2025-10-22 14:21:15,764 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 14:21:16,795 - INFO - Intentando seguir al usuario con inyección de JavaScript...
+2025-10-22 14:21:16,806 - WARNING - No se encontró el botón 'Seguir' mediante JavaScript. Es posible que ya sigas a este usuario.
+2025-10-22 14:21:19,378 - INFO - --- MISIÓN PARA BOT #2 FINALIZADA ---
+2025-10-22 14:21:26,435 - INFO - --- INICIANDO MISIÓN PARA BOT #3 ---
+2025-10-22 14:21:27,104 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 14:21:28,587 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 14:21:32,654 - INFO - Generando cuenta para bot #3: mariaflores57
+2025-10-22 14:21:40,346 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 14:21:55,825 - ERROR - Error creando cuenta en Instagram: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b4b045b]
+	(No symbol) [0x0x7ff75b4b071b]
+	(No symbol) [0x0x7ff75b4f1927]
+	(No symbol) [0x0x7ff75b4d216f]
+	(No symbol) [0x0x7ff75b4a667b]
+	(No symbol) [0x0x7ff75b4ef3d2]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 14:21:55,827 - ERROR - La misión del bot #3 falló con un error: No se pudo crear la cuenta para el bot #3.
+2025-10-22 14:21:58,405 - INFO - --- MISIÓN PARA BOT #3 FINALIZADA ---
+2025-10-22 14:22:04,381 - INFO - --- INICIANDO MISIÓN PARA BOT #4 ---
+2025-10-22 14:22:05,393 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 14:22:07,513 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 14:22:11,558 - INFO - Generando cuenta para bot #4: gabrieladiaz89
+2025-10-22 14:22:20,473 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 14:22:43,582 - INFO - Cuenta creada exitosamente: gabrieladiaz89
+2025-10-22 14:22:51,823 - ERROR - La misión del bot #4 falló con un error: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	(No symbol) [0x0x7ff75b461149]
+	(No symbol) [0x0x7ff75b451f12]
+	(No symbol) [0x0x7ff75b450e8d]
+	(No symbol) [0x0x7ff75b46fbba]
+	(No symbol) [0x0x7ff75b4d7734]
+	(No symbol) [0x0x7ff75b4eed0a]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 14:22:53,957 - INFO - --- MISIÓN PARA BOT #4 FINALIZADA ---
+2025-10-22 14:28:55,217 - INFO - Iniciando proceso de bots...
+2025-10-22 14:28:55,219 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 14:28:55,788 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 14:28:57,406 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 14:28:57,407 - INFO - Generando cuenta para bot #1: sofiaramirez67 con email temporal: ddee675dqj@temp-mail.org
+2025-10-22 14:29:06,940 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 14:29:42,708 - ERROR - Verificación de login en Instagram: Sesión NO activa.
+2025-10-22 14:29:42,709 - ERROR - Cuenta no creada: No se pudo verificar el login después del registro.
+2025-10-22 14:29:42,710 - ERROR - La misión del bot #1 falló con un error: No se pudo crear la cuenta para el bot #1.
+2025-10-22 14:29:45,326 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 14:29:54,660 - INFO - --- INICIANDO MISIÓN PARA BOT #2 ---
+2025-10-22 14:29:55,328 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 14:29:57,067 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 14:30:01,121 - INFO - Generando cuenta para bot #2: diegolopez24 con email temporal: xjeqfrb6pj@temp-mail.org
+2025-10-22 14:30:08,855 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 14:30:42,824 - ERROR - Verificación de login en Instagram: Sesión NO activa.
+2025-10-22 14:30:42,825 - ERROR - Cuenta no creada: No se pudo verificar el login después del registro.
+2025-10-22 14:30:42,826 - ERROR - La misión del bot #2 falló con un error: No se pudo crear la cuenta para el bot #2.
+2025-10-22 14:30:45,359 - INFO - --- MISIÓN PARA BOT #2 FINALIZADA ---
+2025-10-22 14:36:09,009 - INFO - Iniciando proceso de bots...
+2025-10-22 14:36:09,010 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 14:36:09,679 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 14:36:11,367 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 14:36:13,801 - INFO - Generando cuenta para bot #1: miguelortiz19 con email temporal: rwfebqsd@guerrillamailblock.com
+2025-10-22 14:36:22,187 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 14:37:46,252 - ERROR - No se recibió el código de verificación por email.
+2025-10-22 14:37:46,253 - ERROR - La misión del bot #1 falló con un error: No se pudo crear la cuenta para el bot #1.
+2025-10-22 14:37:48,816 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 14:39:30,660 - INFO - Iniciando proceso de bots...
+2025-10-22 14:39:30,662 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 14:39:31,298 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 14:39:32,920 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 14:39:35,244 - INFO - Generando cuenta para bot #1: sofiasanchez63 con email temporal: hfbdujqj@guerrillamailblock.com
+2025-10-22 14:39:42,756 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 14:41:05,725 - ERROR - No se recibió el código de verificación por email.
+2025-10-22 14:41:05,726 - ERROR - La misión del bot #1 falló con un error: No se pudo crear la cuenta para el bot #1.
+2025-10-22 14:41:07,786 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 14:41:13,640 - INFO - --- INICIANDO MISIÓN PARA BOT #2 ---
+2025-10-22 14:41:14,175 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 14:41:15,610 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 14:41:22,044 - INFO - Generando cuenta para bot #2: carlossanchez17 con email temporal: cgajqrwk@guerrillamailblock.com
+2025-10-22 14:41:29,596 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 14:42:46,176 - INFO - Iniciando proceso de bots...
+2025-10-22 14:42:46,177 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 14:42:46,771 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 14:42:48,435 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 14:42:51,005 - INFO - Generando cuenta para bot #1: lauragarcia52 con email temporal: icqlxjtr@guerrillamailblock.com
+2025-10-22 14:42:59,236 - INFO - No se encontraron más pop-ups en esta iteración.
+2025-10-22 15:04:01,061 - INFO - Iniciando proceso de bots...
+2025-10-22 15:06:37,490 - INFO - Iniciando proceso de bots...
+2025-10-22 15:06:37,491 - INFO - No hay suficientes cuentas. Creando 10 nuevas cuentas...
+2025-10-22 15:06:38,132 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:06:54,063 - ERROR - Error creando cuenta #1: No se pudo crear email temporal
+2025-10-22 15:06:57,001 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:07:13,691 - ERROR - Error creando cuenta #2: No se pudo crear email temporal
+2025-10-22 15:07:16,384 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:07:32,034 - ERROR - Error creando cuenta #3: No se pudo crear email temporal
+2025-10-22 15:07:34,661 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:07:49,237 - ERROR - Error creando cuenta #4: No se pudo crear email temporal
+2025-10-22 15:07:51,968 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:08:52,414 - INFO - Iniciando proceso de bots...
+2025-10-22 15:08:52,415 - INFO - No hay suficientes cuentas. Creando 10 nuevas cuentas...
+2025-10-22 15:08:52,940 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:09:08,175 - ERROR - Error creando cuenta #1: No se pudo crear email temporal
+2025-10-22 15:09:10,953 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:09:26,943 - ERROR - Error creando cuenta #2: No se pudo crear email temporal
+2025-10-22 15:09:29,828 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:15:52,815 - INFO - Iniciando proceso de bots...
+2025-10-22 15:15:52,816 - INFO - No hay suficientes cuentas. Creando 10 nuevas cuentas...
+2025-10-22 15:15:53,355 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:16:08,634 - ERROR - Error creando cuenta #1: No se pudo crear email temporal
+2025-10-22 15:16:11,253 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:16:26,373 - ERROR - Error creando cuenta #2: No se pudo crear email temporal
+2025-10-22 15:16:28,981 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:16:43,430 - ERROR - Error creando cuenta #3: No se pudo crear email temporal
+2025-10-22 15:16:45,995 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:17:00,967 - ERROR - Error creando cuenta #4: No se pudo crear email temporal
+2025-10-22 15:17:03,579 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:17:18,867 - ERROR - Error creando cuenta #5: No se pudo crear email temporal
+2025-10-22 15:17:21,455 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:17:36,925 - ERROR - Error creando cuenta #6: No se pudo crear email temporal
+2025-10-22 15:17:39,520 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:17:55,059 - ERROR - Error creando cuenta #7: No se pudo crear email temporal
+2025-10-22 15:17:57,692 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:18:12,999 - ERROR - Error creando cuenta #8: No se pudo crear email temporal
+2025-10-22 15:18:15,579 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:18:31,250 - ERROR - Error creando cuenta #9: No se pudo crear email temporal
+2025-10-22 15:18:33,959 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:18:49,251 - ERROR - Error creando cuenta #10: No se pudo crear email temporal
+2025-10-22 15:18:51,426 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 15:18:51,427 - ERROR - La misión del bot #1 falló con un error: list index out of range
+2025-10-22 15:18:51,427 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 15:18:59,893 - INFO - --- INICIANDO MISIÓN PARA BOT #2 ---
+2025-10-22 15:18:59,893 - ERROR - La misión del bot #2 falló con un error: list index out of range
+2025-10-22 15:18:59,893 - INFO - --- MISIÓN PARA BOT #2 FINALIZADA ---
+2025-10-22 15:19:08,060 - INFO - --- INICIANDO MISIÓN PARA BOT #3 ---
+2025-10-22 15:19:08,060 - ERROR - La misión del bot #3 falló con un error: list index out of range
+2025-10-22 15:19:08,060 - INFO - --- MISIÓN PARA BOT #3 FINALIZADA ---
+2025-10-22 15:20:06,950 - INFO - Iniciando proceso de bots...
+2025-10-22 15:20:06,950 - INFO - No hay suficientes cuentas. Creando 10 nuevas cuentas...
+2025-10-22 15:20:07,382 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:20:13,294 - INFO - Generando cuenta #1: mariaperez482 con email temporal: Loading.
+2025-10-22 15:20:13,751 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:20:15,065 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 15:20:34,372 - ERROR - Error creando cuenta de Instagram: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b4b045b]
+	(No symbol) [0x0x7ff75b4b071b]
+	(No symbol) [0x0x7ff75b4f1927]
+	(No symbol) [0x0x7ff75b4d216f]
+	(No symbol) [0x0x7ff75b4a667b]
+	(No symbol) [0x0x7ff75b4ef3d2]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 15:20:34,373 - ERROR - No se pudo crear la cuenta #1.
+2025-10-22 15:20:44,676 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:20:54,376 - INFO - Generando cuenta #2: carmenfernandez182 con email temporal: Loading
+2025-10-22 15:20:54,932 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:20:56,189 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 15:21:09,427 - ERROR - Error creando cuenta de Instagram: 'NoneType' object has no attribute 'is_displayed'
+2025-10-22 15:21:09,428 - ERROR - No se pudo crear la cuenta #2.
+2025-10-22 15:22:49,369 - INFO - Iniciando proceso de bots...
+2025-10-22 15:22:49,370 - INFO - No hay suficientes cuentas. Creando 10 nuevas cuentas...
+2025-10-22 15:22:49,724 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:22:55,827 - INFO - Generando cuenta #1: anagarcia798 con email temporal: Loading
+2025-10-22 15:22:56,317 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:22:57,708 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 15:23:32,531 - ERROR - Error creando cuenta de Instagram: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b4b045b]
+	(No symbol) [0x0x7ff75b4b071b]
+	(No symbol) [0x0x7ff75b4f1927]
+	(No symbol) [0x0x7ff75b4d216f]
+	(No symbol) [0x0x7ff75b4a667b]
+	(No symbol) [0x0x7ff75b4ef3d2]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 15:23:32,532 - ERROR - No se pudo crear la cuenta #1.
+2025-10-22 15:23:46,864 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:23:57,377 - INFO - Generando cuenta #2: juanmartinez746 con email temporal: Loading..
+2025-10-22 15:23:57,880 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:23:59,167 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 15:24:20,950 - ERROR - Error creando cuenta de Instagram: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b450cd0]
+	(No symbol) [0x0x7ff75b46fbba]
+	(No symbol) [0x0x7ff75b4d7734]
+	(No symbol) [0x0x7ff75b4eed0a]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 15:24:20,950 - ERROR - No se pudo crear la cuenta #2.
+2025-10-22 15:25:53,769 - INFO - Iniciando proceso de bots...
+2025-10-22 15:25:53,769 - INFO - No hay suficientes cuentas. Creando 10 nuevas cuentas...
+2025-10-22 15:25:54,102 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:26:00,019 - INFO - Generando cuenta #1: rosamartin820 con email temporal: Loading.
+2025-10-22 15:26:00,469 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:26:01,944 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 15:26:36,321 - ERROR - Error creando cuenta de Instagram: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b4b045b]
+	(No symbol) [0x0x7ff75b4b071b]
+	(No symbol) [0x0x7ff75b4f1927]
+	(No symbol) [0x0x7ff75b4d216f]
+	(No symbol) [0x0x7ff75b4a667b]
+	(No symbol) [0x0x7ff75b4ef3d2]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 15:26:36,322 - ERROR - No se pudo crear la cuenta #1.
+2025-10-22 15:28:47,507 - INFO - Iniciando proceso de bots...
+2025-10-22 15:28:47,508 - INFO - No hay suficientes cuentas. Creando 2 nuevas cuentas...
+2025-10-22 15:28:47,847 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:28:56,597 - INFO - Generando cuenta #1: anarodriguez290 con email temporal: sayego1746@nrlord.com
+2025-10-22 15:28:57,117 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:28:58,595 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 15:29:37,180 - ERROR - Error creando cuenta de Instagram: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b4b045b]
+	(No symbol) [0x0x7ff75b4b071b]
+	(No symbol) [0x0x7ff75b4f1927]
+	(No symbol) [0x0x7ff75b4d216f]
+	(No symbol) [0x0x7ff75b4a667b]
+	(No symbol) [0x0x7ff75b4ef3d2]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 15:29:37,182 - ERROR - No se pudo crear la cuenta #1.
+2025-10-22 15:29:50,829 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:30:03,731 - INFO - Generando cuenta #2: carmenlopez889 con email temporal: tefiped935@fogdiver.com
+2025-10-22 15:30:04,205 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:30:05,492 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 15:30:47,809 - ERROR - Error creando cuenta de Instagram: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b4b045b]
+	(No symbol) [0x0x7ff75b4b071b]
+	(No symbol) [0x0x7ff75b4f1927]
+	(No symbol) [0x0x7ff75b4d216f]
+	(No symbol) [0x0x7ff75b4a667b]
+	(No symbol) [0x0x7ff75b4ef3d2]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 15:30:47,810 - ERROR - No se pudo crear la cuenta #2.
+2025-10-22 15:30:58,807 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 15:30:58,807 - ERROR - La misión del bot #1 falló con un error: list index out of range
+2025-10-22 15:30:58,808 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 15:31:04,136 - INFO - --- INICIANDO MISIÓN PARA BOT #2 ---
+2025-10-22 15:31:04,136 - ERROR - La misión del bot #2 falló con un error: list index out of range
+2025-10-22 15:31:04,136 - INFO - --- MISIÓN PARA BOT #2 FINALIZADA ---
+2025-10-22 15:34:52,035 - INFO - Iniciando proceso de bots...
+2025-10-22 15:34:52,035 - INFO - No hay suficientes cuentas. Creando 1 nuevas cuentas...
+2025-10-22 15:34:52,386 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:35:01,807 - INFO - Generando cuenta #1: luisfernandez461 con email temporal: gojevix635@datoinf.com
+2025-10-22 15:35:02,244 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:35:03,619 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 15:35:03,620 - INFO - Navegando a la página de registro de Instagram...
+2025-10-22 15:35:07,767 - INFO - URL actual: https://www.instagram.com/accounts/emailsignup/
+2025-10-22 15:35:07,768 - INFO - Buscando campo de email...
+2025-10-22 15:35:07,791 - INFO - Campo de email encontrado, rellenando...
+2025-10-22 15:35:42,817 - ERROR - Error creando cuenta de Instagram: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b4b045b]
+	(No symbol) [0x0x7ff75b4b071b]
+	(No symbol) [0x0x7ff75b4f1927]
+	(No symbol) [0x0x7ff75b4d216f]
+	(No symbol) [0x0x7ff75b4a667b]
+	(No symbol) [0x0x7ff75b4ef3d2]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 15:35:42,818 - ERROR - No se pudo crear la cuenta #1.
+2025-10-22 15:35:53,920 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 15:35:53,920 - ERROR - La misión del bot #1 falló con un error: list index out of range
+2025-10-22 15:35:53,921 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 15:46:23,204 - INFO - Iniciando proceso de bots...
+2025-10-22 15:46:23,205 - INFO - No hay suficientes cuentas. Creando 1 nuevas cuentas...
+2025-10-22 15:46:23,786 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:46:32,741 - INFO - Generando cuenta #1: carlossanchez876 con email temporal: romona1146@fogdiver.com
+2025-10-22 15:46:33,221 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:46:34,509 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 15:46:34,510 - INFO - Navegando a la página de registro de Instagram...
+2025-10-22 15:46:39,859 - INFO - URL actual: https://www.instagram.com/accounts/signup/phone/
+2025-10-22 15:46:39,859 - INFO - Buscando campo de email...
+2025-10-22 15:46:55,116 - ERROR - Error creando cuenta de Instagram: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b4b045b]
+	(No symbol) [0x0x7ff75b4b071b]
+	(No symbol) [0x0x7ff75b4f1927]
+	(No symbol) [0x0x7ff75b4d216f]
+	(No symbol) [0x0x7ff75b4a667b]
+	(No symbol) [0x0x7ff75b4ef3d2]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 15:46:55,117 - ERROR - No se pudo crear la cuenta #1.
+2025-10-22 15:47:05,972 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 15:47:05,972 - ERROR - La misión del bot #1 falló con un error: list index out of range
+2025-10-22 15:47:05,972 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 15:50:16,855 - INFO - Iniciando proceso de bots...
+2025-10-22 15:50:16,856 - INFO - No hay suficientes cuentas. Creando 1 nuevas cuentas...
+2025-10-22 15:50:17,311 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:50:36,717 - ERROR - Error creando cuenta #1: No se pudo crear email temporal
+2025-10-22 15:50:38,835 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 15:50:38,835 - ERROR - La misión del bot #1 falló con un error: list index out of range
+2025-10-22 15:50:38,836 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 15:54:31,751 - INFO - Iniciando proceso de bots...
+2025-10-22 15:54:31,752 - INFO - No hay suficientes cuentas. Creando 1 nuevas cuentas...
+2025-10-22 15:54:31,752 - INFO - Generando cuenta #1: carmenlopez780 con teléfono: +51279977225
+2025-10-22 15:54:32,100 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:54:33,314 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 15:54:33,314 - INFO - Navegando a la página de registro de Instagram...
+2025-10-22 15:54:37,678 - INFO - URL actual: https://www.instagram.com/accounts/emailsignup/
+2025-10-22 15:54:37,678 - INFO - Buscando campo de teléfono...
+2025-10-22 15:54:37,718 - INFO - Campo de teléfono encontrado, rellenando...
+2025-10-22 15:55:10,188 - ERROR - Error creando cuenta de Instagram: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b4b045b]
+	(No symbol) [0x0x7ff75b4b071b]
+	(No symbol) [0x0x7ff75b4f1927]
+	(No symbol) [0x0x7ff75b4d216f]
+	(No symbol) [0x0x7ff75b4a667b]
+	(No symbol) [0x0x7ff75b4ef3d2]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 15:55:10,189 - ERROR - No se pudo crear la cuenta #1.
+2025-10-22 15:55:18,353 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 15:55:18,354 - ERROR - La misión del bot #1 falló con un error: list index out of range
+2025-10-22 15:55:18,354 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 15:56:04,146 - INFO - Iniciando proceso de bots...
+2025-10-22 15:56:04,146 - INFO - No hay suficientes cuentas. Creando 1 nuevas cuentas...
+2025-10-22 15:56:04,147 - INFO - Generando cuenta #1: carmenmartinez783 con teléfono: +54450503639
+2025-10-22 15:56:04,579 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:56:05,748 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 15:56:05,748 - INFO - Navegando a la página de registro de Instagram...
+2025-10-22 15:56:09,126 - INFO - URL actual: https://www.instagram.com/accounts/emailsignup/
+2025-10-22 15:56:09,127 - INFO - Buscando campo de teléfono...
+2025-10-22 15:56:09,165 - INFO - Campo de teléfono encontrado, rellenando...
+2025-10-22 15:56:43,788 - ERROR - Error creando cuenta de Instagram: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b4b045b]
+	(No symbol) [0x0x7ff75b4b071b]
+	(No symbol) [0x0x7ff75b4f1927]
+	(No symbol) [0x0x7ff75b4d216f]
+	(No symbol) [0x0x7ff75b4a667b]
+	(No symbol) [0x0x7ff75b4ef3d2]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 15:56:43,788 - ERROR - No se pudo crear la cuenta #1.
+2025-10-22 15:58:46,073 - INFO - Iniciando proceso de bots...
+2025-10-22 15:58:46,074 - INFO - No hay suficientes cuentas. Creando 1 nuevas cuentas...
+2025-10-22 15:58:46,074 - INFO - Generando cuenta #1: juanperez749 con teléfono: +56982210480
+2025-10-22 15:58:46,436 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 15:58:47,601 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 15:58:47,602 - INFO - Navegando a la página de registro de Instagram...
+2025-10-22 15:58:52,163 - INFO - URL actual: https://www.instagram.com/accounts/emailsignup/
+2025-10-22 15:58:52,163 - INFO - Buscando campo de teléfono...
+2025-10-22 15:58:52,205 - INFO - Campo de teléfono encontrado, rellenando...
+2025-10-22 15:59:09,832 - ERROR - Error creando cuenta de Instagram: 'NoneType' object has no attribute 'is_displayed'
+2025-10-22 15:59:09,833 - ERROR - No se pudo crear la cuenta #1.
+2025-10-22 16:00:31,132 - INFO - Iniciando proceso de bots...
+2025-10-22 16:00:31,133 - INFO - No hay suficientes cuentas. Creando 1 nuevas cuentas...
+2025-10-22 16:00:31,133 - INFO - Generando cuenta #1: isabelfernandez272 con teléfono: +58910644395
+2025-10-22 16:00:31,520 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 16:00:32,696 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 16:00:32,697 - INFO - Navegando a la página de registro de Instagram...
+2025-10-22 16:00:36,775 - INFO - URL actual: https://www.instagram.com/accounts/emailsignup/
+2025-10-22 16:00:36,775 - INFO - Buscando campo de teléfono...
+2025-10-22 16:00:36,813 - INFO - Campo de teléfono encontrado, rellenando...
+2025-10-22 16:00:39,044 - ERROR - Error creando cuenta de Instagram: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff75b6f2685+51877]
+	GetHandleVerifier [0x0x7ff75b6f26e4+51972]
+	GetHandleVerifier [0x0x7ff75b8a8c75+1847445]
+	(No symbol) [0x0x7ff75b450cd0]
+	(No symbol) [0x0x7ff75b46fbba]
+	(No symbol) [0x0x7ff75b4d7734]
+	(No symbol) [0x0x7ff75b4eed0a]
+	(No symbol) [0x0x7ff75b4d1df3]
+	(No symbol) [0x0x7ff75b4a5b36]
+	(No symbol) [0x0x7ff75b4a4d80]
+	(No symbol) [0x0x7ff75b4a5973]
+	(No symbol) [0x0x7ff75b56e4a5]
+	(No symbol) [0x0x7ff75b56a75d]
+	GetHandleVerifier [0x0x7ff75b71cec3+226019]
+	GetHandleVerifier [0x0x7ff75b70c091+156849]
+	GetHandleVerifier [0x0x7ff75b714589+190889]
+	GetHandleVerifier [0x0x7ff75b6f97c4+80868]
+	GetHandleVerifier [0x0x7ff75b6f9913+81203]
+	GetHandleVerifier [0x0x7ff75b6e7e96+8886]
+	BaseThreadInitThunk [0x0x7ffa9a3be8d7+23]
+	RtlUserThreadStart [0x0x7ffa9c56c53c+44]
+
+2025-10-22 16:00:39,044 - ERROR - No se pudo crear la cuenta #1.
+2025-10-22 16:01:56,729 - INFO - Iniciando proceso de bots...
+2025-10-22 16:01:56,730 - INFO - No hay suficientes cuentas. Creando 1 nuevas cuentas...
+2025-10-22 16:01:57,159 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 16:02:14,531 - ERROR - Error creando cuenta #1: No se pudo crear email temporal
+2025-10-22 16:12:46,528 - INFO - Iniciando proceso de bots...
+2025-10-22 16:12:46,529 - INFO - No hay suficientes cuentas. Creando 1 nuevas cuentas...
+2025-10-22 16:12:46,530 - INFO - Generando cuenta #1: josemartin963 con teléfono temporal: +54961606025
+2025-10-22 16:12:46,533 - ERROR - Error al inicializar el WebDriver de Chrome móvil. Asegúrate de que 'chromedriver.exe' esté en el directorio correcto y tu dispositivo esté conectado vía USB con depuración habilitada. Error: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+2025-10-22 16:12:52,664 - ERROR - No se pudo inicializar el driver para crear cuenta #1. Saltando.
+2025-10-22 16:12:52,665 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 16:12:52,665 - ERROR - La misión del bot #1 falló con un error: list index out of range
+2025-10-22 16:12:52,665 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 16:14:07,934 - INFO - Iniciando proceso de bots...
+2025-10-22 16:14:07,935 - INFO - No hay suficientes cuentas. Creando 1 nuevas cuentas...
+2025-10-22 16:14:07,935 - INFO - Generando cuenta #1: mariagonzalez463 con teléfono temporal: +57553830267
+2025-10-22 16:14:07,935 - ERROR - Error al inicializar el WebDriver de Chrome móvil. Asegúrate de que 'chromedriver.exe' esté en el directorio correcto y tu dispositivo esté conectado vía USB con depuración habilitada. Error: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+2025-10-22 16:14:19,936 - ERROR - No se pudo inicializar el driver para crear cuenta #1. Saltando.
+2025-10-22 16:14:19,938 - INFO - --- INICIANDO MISIÓN PARA BOT #1 ---
+2025-10-22 16:14:19,938 - ERROR - La misión del bot #1 falló con un error: list index out of range
+2025-10-22 16:14:19,939 - INFO - --- MISIÓN PARA BOT #1 FINALIZADA ---
+2025-10-22 16:14:52,590 - INFO - Iniciando proceso de bots...
+2025-10-22 16:14:52,590 - INFO - No hay suficientes cuentas. Creando 1 nuevas cuentas...
+2025-10-22 16:14:52,590 - INFO - Generando cuenta #1: carloslopez568 con teléfono temporal: +51175446383
+2025-10-22 16:14:53,021 - WARNING - There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_141_WINDOWS): error trying to connect: dns error: Host desconocido. (os error 11001)); using driver found in the cache
+2025-10-22 16:14:54,367 - INFO - WebDriver de Edge inicializado con éxito.
+2025-10-22 16:14:54,367 - INFO - Navegando a la página de registro de Instagram...
+2025-10-22 16:14:58,370 - INFO - URL actual: https://www.instagram.com/accounts/emailsignup/
+2025-10-22 16:14:58,370 - INFO - Buscando campo de teléfono...
+2025-10-22 16:14:58,400 - INFO - Campo de teléfono encontrado, rellenando...
+2025-10-22 16:18:22,599 - INFO - Iniciando proceso de bots...
+2025-10-22 16:18:22,599 - INFO - No hay suficientes cuentas. Creando 1 nuevas cuentas...
+2025-10-22 16:18:22,599 - INFO - Generando cuenta #1: anamartin739 con teléfono temporal: +1297108290
+2025-10-22 16:18:27,180 - INFO - WebDriver de Chrome inicializado con éxito.
+2025-10-22 16:18:27,181 - INFO - Navegando a la página de registro de Instagram...

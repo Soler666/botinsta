@@ -1,0 +1,31 @@
+# Lista de Tareas para Mejorar el Generador de Bots
+
+- [x] Actualizar imports: Agregar PIL para imágenes y random para comportamientos realistas.
+- [x] Crear o asumir logos de redes sociales (instagram_logo.png, tiktok_logo.png).
+- [x] Rediseñar la interfaz: Usar frames, agregar logos, OptionMenus para red social y tipo de acción.
+- [x] Expandir lógica: Agregar funciones para seguir usuarios, dar like a fotos/videos, etc.
+- [x] Hacer bots realistas: Agregar delays aleatorios, comentarios variados.
+- [x] Probar la aplicación.
+- [x] Agregar campos de login (usuario y contraseña) para Instagram y TikTok.
+- [x] Crear funciones de login para iniciar sesión antes de acciones.
+- [x] Actualizar XPaths y selectores para botones (follow, like, comment) para evitar errores de localización.
+- [x] Mejorar UI: Agregar estilos con ttk, animaciones simples (botón hover, progress bar durante ejecución).
+- [x] Hacer bots más realistas: Agregar user agents aleatorios, scroll simulado, delays variables.
+- [x] Importar librerías adicionales: ttkthemes para temas modernos.
+- [x] Probar login y acciones con credenciales de prueba (placeholders).
+- [x] Cambiar a WebDriver de Edge para mayor profesionalismo.
+- [x] Modularizar configuración y utilidades en archivos separados (`config.py`, `utils.py`).
+- [x] Implementar logging detallado para seguimiento de actividad y errores.
+- [x] Mejorar la simulación de comportamiento humano (retrasos más dinámicos, movimientos de ratón).
+- [ ] Añadir reintentos para acciones críticas.
+- [x] Añadir reintentos para acciones críticas.
+- [x] Opción para interactuar con múltiples publicaciones/videos.
+- [x] Preparar configuración para integración con proxies/VPNs para evitar bloqueos de IP (si se escala).
+- [ ] Implementar rotación de proxies (si se escala).
+- [x] Añadir verificación de login al inicio de cada bot.
+- [x] Mejorar manejo de pop-ups de Instagram (cookies, guardar login, notificaciones).
+- [x] Refinar selector del botón "Seguir" en Instagram para mayor robustez.
+- [x] Agregar funcionalidad para dar like a reels en Instagram.
+- [x] Integrar instabot para acciones de Instagram (login, follow, like posts/reels).
+- [x] Remover lógica de creación de cuentas nuevas y correos temporales.
+- [x] Actualizar interfaz para requerir credenciales de login existentes.

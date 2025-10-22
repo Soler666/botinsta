@@ -1,0 +1,6 @@
+2025/10/22-16:14:57.578 4ca8 Reusing MANIFEST C:\Users\SOLER DAVID\Desktop\bots\edge_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/10/22-16:14:57.579 4ca8 Recovering log #114
+2025/10/22-16:14:57.580 4ca8 Reusing old log C:\Users\SOLER DAVID\Desktop\bots\edge_profile\Default\EdgeCoupons/coupons_data.db/000114.log 
+2025/10/22-16:14:57.646 6408 Level-0 table #118: started
+2025/10/22-16:14:57.651 6408 Level-0 table #118: 672340 bytes OK
+2025/10/22-16:14:57.654 6408 Delete type=0 #114

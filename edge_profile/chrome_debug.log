@@ -1,0 +1,23 @@
+[27020:26636:1022/161826.593:ERROR:sandbox\policy\win\sandbox_win.cc:765] Sandbox cannot access executable. Check filesystem permissions are valid. See https://bit.ly/31yqMJR.: Acceso denegado. (0x5)
+[27020:19660:1022/161826.727:ERROR:extensions\common\url_pattern_set.cc:298] Invalid url pattern: edge://resources/*
+[27020:19660:1022/161826.908:ERROR:content\browser\network_service_instance_impl.cc:599] Network service crashed, restarting service.
+[13680:27360:1022/161828.124:ERROR:gpu\command_buffer\service\shared_image\shared_image_manager.cc:389] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[13680:27360:1022/161828.125:ERROR:gpu\command_buffer\service\shared_image\shared_image_manager.cc:389] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[13680:27360:1022/161828.126:ERROR:gpu\command_buffer\service\shared_image\shared_image_manager.cc:389] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[13680:27360:1022/161828.126:ERROR:gpu\command_buffer\service\shared_image\shared_image_manager.cc:389] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[13680:27360:1022/161828.126:ERROR:gpu\command_buffer\service\shared_image\shared_image_manager.cc:389] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[13680:27360:1022/161828.243:ERROR:gpu\command_buffer\service\shared_image\shared_image_manager.cc:389] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[27020:19660:1022/161829.081:INFO:CONSOLE:252] "
+%c¡Detente! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yc/r/0uwY6N15B7i.js (252)
+[27020:19660:1022/161829.081:INFO:CONSOLE:252] "
+%cEsta función del navegador está pensada para desarrolladores. Si alguien te indicó que copiaras y pegaras algo aquí para habilitar una función de Instagram o para "hackear" la cuenta de alguien, se trata de una estafa. Si lo haces, esta persona podrá acceder a tu cuenta de Instagram. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yc/r/0uwY6N15B7i.js (252)
+[27020:19660:1022/161829.081:INFO:CONSOLE:252] "
+%cConsulta https://www.facebook.com/selfxss para obtener más información. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yc/r/0uwY6N15B7i.js (252)
+[27020:19660:1022/161829.081:INFO:CONSOLE:252] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yc/r/0uwY6N15B7i.js (252)
+[27020:19660:1022/161829.358:INFO:CONSOLE:0] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.instagram.com/accounts/emailsignup/ (0)
+[27020:26256:1022/161833.336:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[27020:26256:1022/161833.558:ERROR:google_apis\gcm\engine\mcs_client.cc:700]   Error code: 401  Error message: Authentication Failed: wrong_secret
+[27020:26256:1022/161833.558:ERROR:google_apis\gcm\engine\mcs_client.cc:702] Failed to log in to GCM, resetting connection.
+[6332:548:1022/161846.478:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[6332:548:1022/161846.478:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.

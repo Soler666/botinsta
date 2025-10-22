@@ -1,0 +1,6 @@
+selenium
+streamlit
+requests
+beautifulsoup4
+lxml
+fake-useragent
